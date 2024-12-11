@@ -6,6 +6,14 @@
 ### Hi there 👋
 - #### Jinpyo Kim - @wlsvy
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/wlsvy"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 <!--
 **wlsvy/wlsvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
